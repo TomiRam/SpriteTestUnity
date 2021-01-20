@@ -1,2 +1,2 @@
 # SpriteTestUnity
-Testing My sprite movements with a single script
+Testing sprite movements in unity
